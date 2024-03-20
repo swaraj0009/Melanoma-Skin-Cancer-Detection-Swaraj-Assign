@@ -1,1 +1,15 @@
-# Melanoma-Skin-Cancer-Detection-Swaraj-Assign
+# Melanoma Skin Cancer Detection
+## Abstract
+Cancer encompasses more than 200 distinct forms, with melanoma emerging as the most lethal type of skin cancer among them. The process of diagnosing melanoma begins with clinical screening, followed by dermoscopic analysis and histopathological examination. Detecting melanoma skin cancer early significantly increases the chances of successful treatment. The initial stage of diagnosis involves visually inspecting the affected skin area. Dermatologists capture dermatoscopic images of skin lesions using high-speed cameras, achieving a diagnostic accuracy of 65-80% for melanoma without additional technical support. Combining visual assessments by cancer specialists with dermatoscopic images elevates the overall melanoma diagnosis accuracy to 75-84%. This project's objective is to develop an automated classification system utilizing image processing techniques to categorize skin cancer based on images of skin lesions.
+
+## Problem Statement
+ During a skin biopsy, a dermatologist extracts a portion of the skin lesion for microscopic examination. This procedure typically spans over a week, from scheduling a dermatologist appointment to receiving the biopsy report. The goal is to reduce this timeframe to a few days using a predictive model. This approach leverages a Convolutional Neural Network (CNN) to categorize nine types of skin cancer based on outlier lesion images. Such a reduction in time has the potential to greatly benefit millions of individuals.
+
+## Goal
+The main objective is to contribute to the reduction of fatalities attributed to skin cancer. The primary drive behind this project is to utilize advanced image classification technology for the betterment of individuals' health. Computer vision has seen significant advancements in machine learning and deep learning, which are applicable and scalable across various fields.
+
+## Dataset
+The dataset comprises 2357 images depicting malignant and benign oncological conditions, sourced from the International Skin Imaging Collaboration (ISIC). These images were organized based on the classifications provided by ISIC, with each subset containing an equal number of images.
+
+The data set contains the following diseases:
+
