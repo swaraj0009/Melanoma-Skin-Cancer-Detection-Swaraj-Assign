@@ -17,3 +17,18 @@ The data set contains the following diseases:
 
 ![image](https://github.com/swaraj0009/Melanoma-Skin-Cancer-Detection-Swaraj-Assign/assets/146698086/2644e3e4-f778-4211-ba79-b60c42b6ddbc)
 
+## Modeling [Architecture]
+
+![image](https://github.com/swaraj0009/Melanoma-Skin-Cancer-Detection-Swaraj-Assign/assets/146698086/0df5ffcb-8f66-4f32-8744-84e9ae6d00f6)
+
+## Model Prediction
+
+![image](https://github.com/swaraj0009/Melanoma-Skin-Cancer-Detection-Swaraj-Assign/assets/146698086/215e81da-f0f8-476f-a80b-985d5e5c7a62)
+
+## Reference Links
+
+Efficient way to build CNN architecture from https://towardsdatascience.com/a-guide-to-an-efficient-way-to-build-neural-network-architectures-part-ii-hyper-parameter-42efca01e5d7
+Melanoma Skin Cancer from https://www.cancer.org/cancer/melanoma-skin-cancer/about/what-is-melanoma.html
+
+
+
