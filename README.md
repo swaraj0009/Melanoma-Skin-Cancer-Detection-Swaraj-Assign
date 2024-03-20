@@ -15,4 +15,5 @@ The data set contains the following diseases:
 
 ![image](https://github.com/swaraj0009/Melanoma-Skin-Cancer-Detection-Swaraj-Assign/assets/146698086/57d0aad4-562d-4e0a-a8ef-a415a5bd7064)
 
-![Uploading image.png…]()
+![image](https://github.com/swaraj0009/Melanoma-Skin-Cancer-Detection-Swaraj-Assign/assets/146698086/2644e3e4-f778-4211-ba79-b60c42b6ddbc)
+
